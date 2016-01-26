@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="content_authority">com.example.droidcodin.popularmdb</string>
+
+    <string name="favourite">Favorite</string>
+
+    <!-- Menu label to fetch updated movie info from the server -->
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Key name for sort order preference in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_order_key" translatable="false">sortkey</string>
+
+
+
+
+    <!-- Label for the sort by preference [CHAR LIMIT=30] -->
+     <string name="pref_sort_order_label">Sort By</string>
+
+    <!-- Label for most popular option in sort by preference [CHAR LIMIT=25] -->
+    <string name="pref_label_sort_order_popular">Most Popular</string>
+
+    <!-- Label for highest rated option in sort by preference [CHAR LIMIT=25] -->
+    <string name="pref_label_sort_highest_rated">Highest Rated</string>
+
+
+    <!-- Default Value in SharedPreferences for most popular option [CHAR LIMIT=NONE] -->
+   <string name="pref_sort_order_popular_default" translatable="false">popular</string>
+
+    <!-- Value in SharedPreferences for most popular option [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_order_highest_rated" translatable="false">top_rated</string>
+
+</resources>
+
+
+

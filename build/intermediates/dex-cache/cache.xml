@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\classes-7c0afa1548a3ab3c035d2c349ceb690d31d09e23.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.2.0\959c454243581fdf730abfd4f4745441724bcf2c\okhttp-2.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="959c454243581fdf730abfd4f4745441724bcf2c">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\okhttp-2.2.0-b2da7000d9cc93eb7ecdec4572803d6690afdefa.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-d98e24dc005e1dc050837ed04dba29dad2cea52a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-87691419c051c8795bb3e0efefcc4c45367712a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\classes-e0404d7b7f0dd4f7446488b1c036cdf82b8fb23e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0-d9339ffcebada8aac20ae9a3e53e57b4d1554dca.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho-okhttp\1.2.0\6c5c9380e245c4ff5be2b2a49dcbb0200c39798e\stetho-okhttp-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6c5c9380e245c4ff5be2b2a49dcbb0200c39798e">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\stetho-okhttp-1.2.0-b0fdd9262ba0028d21868012b0042ac229afd7bb.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.facebook.stetho\stetho\1.2.0\1d6cdb8ce8185b8b23213fad48a83987fb6d2d67\stetho-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1d6cdb8ce8185b8b23213fad48a83987fb6d2d67">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\stetho-1.2.0-f3923f45f1e4029cc92e2b9517e80e51d7d3d462.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1-4debe7d115640e2714003b58063f632e03302a5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-4255d155ae515f7a53f651b985dc3cf3bf96da27.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-265eb887c8b633c1a5cbdf00db453323a1829ed6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\commons-cli\commons-cli\1.2\2bf96b7aa8b611c177d329452af1dc933e14501c\commons-cli-1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2bf96b7aa8b611c177d329452af1dc933e14501c">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\commons-cli-1.2-0a31e90bb7a9cf45985fd506a5ed6ed7cede6903.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\classes-8423b222f868ffa1b2cfda2855dba2833663edc4.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-22f6b3206a02051ab3bb822b6a1701d6c691e537.jar" />
+    </item>
+    <item
+        jar="C:\Users\ad024433\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Users\ad024433\Desktop\loader\TestProj-master\app\build\intermediates\pre-dexed\debug\gson-2.3.1-172b0f311ee89e415f1cf9ca11b4272b224e9fbe.jar" />
+    </item>
+
+</items>
